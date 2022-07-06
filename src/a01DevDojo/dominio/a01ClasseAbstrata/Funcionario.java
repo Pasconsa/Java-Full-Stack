@@ -1,4 +1,4 @@
-package a01ClasseAbstrata.dominio;
+package a01DevDojo.dominio.a01ClasseAbstrata;
 
 public abstract class Funcionario extends Pessoa{
     protected String nome;

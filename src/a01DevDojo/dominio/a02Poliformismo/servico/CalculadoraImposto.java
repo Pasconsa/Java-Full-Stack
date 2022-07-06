@@ -1,8 +1,7 @@
-package a02Poliformismo.servico;
+package a01DevDojo.dominio.a02Poliformismo.servico;
 
-import a02Poliformismo.dominio.Computador;
-import a02Poliformismo.dominio.Produto;
-import a02Poliformismo.dominio.Tomate;
+import a01DevDojo.dominio.a02Poliformismo.dominio.Produto;
+import a01DevDojo.dominio.a02Poliformismo.dominio.Tomate;
 
 public class CalculadoraImposto { //se voce não estiver usando nenhyum atributo de classe voce pode usar static
 /*

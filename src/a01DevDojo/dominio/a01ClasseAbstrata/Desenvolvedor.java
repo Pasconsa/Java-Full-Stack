@@ -1,4 +1,4 @@
-package a01ClasseAbstrata.dominio;
+package a01DevDojo.dominio.a01ClasseAbstrata;
 
 public class Desenvolvedor extends Funcionario {
     public Desenvolvedor(String nome, double salario) {

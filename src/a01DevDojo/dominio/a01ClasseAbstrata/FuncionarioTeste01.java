@@ -1,4 +1,4 @@
-package a01ClasseAbstrata.dominio;
+package a01DevDojo.dominio.a01ClasseAbstrata;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args) {

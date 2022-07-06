@@ -1,6 +1,6 @@
-package a02Poliformismo.servico;
+package a01DevDojo.dominio.a02Poliformismo.servico;
 
-import a02Poliformismo.repositorio.Repositorio;
+import a01DevDojo.dominio.a02Poliformismo.repositorio.Repositorio;
 
 public class RepositorioArquivo implements Repositorio {
     @Override

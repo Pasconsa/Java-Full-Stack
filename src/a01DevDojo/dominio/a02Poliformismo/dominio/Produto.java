@@ -1,4 +1,4 @@
-package a02Poliformismo.dominio;
+package a01DevDojo.dominio.a02Poliformismo.dominio;
 
 public abstract class Produto implements Taxavel{
     protected String nome;

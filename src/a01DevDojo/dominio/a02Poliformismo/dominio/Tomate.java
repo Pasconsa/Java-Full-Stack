@@ -1,4 +1,4 @@
-package a02Poliformismo.dominio;
+package a01DevDojo.dominio.a02Poliformismo.dominio;
 
 public class Tomate extends Produto{
     public static final double IMPOSTO = 0.06;
